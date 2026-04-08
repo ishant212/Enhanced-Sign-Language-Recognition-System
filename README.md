@@ -35,7 +35,7 @@ The system captures hand gestures via webcam, processes them into a structured r
 
 ## 🎬 Demo Video
 
-> [▶️ Watch Demo](https://youtu.be/PCtEu82GTNg)
+[![Watch Demo](https://img.youtube.com/vi/PCtEu82GTNg/maxresdefault.jpg)](https://youtu.be/PCtEu82GTNg)
 
 ---
 
