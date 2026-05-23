@@ -193,7 +193,7 @@ SIGN-LANGUAGE-PROJECT/
 ### Step 1 — Clone Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name
+git clone https://github.com/ishant212/Enhanced-Sign-Language-Recognition-System
 cd your-repo-name
 ```
 
